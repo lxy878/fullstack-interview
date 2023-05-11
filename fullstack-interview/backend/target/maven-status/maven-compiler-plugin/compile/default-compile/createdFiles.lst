@@ -1,0 +1,5 @@
+org/sailplatform/fsbackend/FsbackendApplication.class
+org/sailplatform/fsbackend/repository/PersonRepository.class
+org/sailplatform/fsbackend/controller/PersonController.class
+org/sailplatform/fsbackend/model/Person.class
+org/sailplatform/fsbackend/service/PersonService.class
